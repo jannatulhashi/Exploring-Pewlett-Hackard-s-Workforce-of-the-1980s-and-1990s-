@@ -1,5 +1,6 @@
 # Exploring Pewlett Hackard's Workforce of the 1980s and 1990s
-A Data Modeling, Data Engineering, and Data Analysis
+
+Data Modeling, Data Engineering, and Data Analysis
 
 ## Background
 As a new data engineer at Pewlett Hackard (a fictional company), my first major task is doing a research project about people the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
